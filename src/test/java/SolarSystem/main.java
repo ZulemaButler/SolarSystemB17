@@ -14,5 +14,14 @@ public class main {
         Sun.name="panther";
         Sun.color="black";
         Sun.temp="-1223124kelvin";
+
+        //Planet1
+
+        Planet1 plato=new Planet1();
+        plato.color="Green";
+        plato.name="Hocus Pocus";
+        plato.temp="10000000000k";
+        plato.radius="123445565K";
+
     }
 }
