@@ -7,5 +7,4 @@ public class solarSystemBasics {
     String Stars;
     String Planets;
 
-
 }
