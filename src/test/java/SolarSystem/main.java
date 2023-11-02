@@ -17,10 +17,21 @@ public class main {
 
 
 
+
      //   *******************Planet2************
         Planet2 Xaros=new Planet2();
         Xaros.name="LaLaLand";
         Xaros.color="Pink";
         Xaros.size="12345333m";
+
+        //Planet1
+
+        Planet1 plato=new Planet1();
+        plato.color="Green";
+        plato.name="Hocus Pocus";
+        plato.temp="10000000000k";
+        plato.radius="123445565K";
+
+
     }
 }

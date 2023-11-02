@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75df9066-adf5-438c-9435-82802ef35ad7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/SolarSystem/Planet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SolarSystem/Planet1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/SolarSystem/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SolarSystem/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/porschabuttercup/Desktop/Betse/SolarSystemB17",
-    "onboarding.tips.debug.path": "/Users/porschabuttercup/IdeaProjects/SolarSystemB17/src/main/java/org/syntax/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/porschabuttercup/Desktop/Betse/SolarSystemB17&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/porschabuttercup/IdeaProjects/SolarSystemB17/src/main/java/org/syntax/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SolarSystem.main" />
